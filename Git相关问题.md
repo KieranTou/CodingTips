@@ -16,3 +16,6 @@ fatal: unable to access 'https://github.com/KieranTou/CodeWithCarl.git/': The re
 如何查看项目git设置 `vim .git/config`
 
 ## 2. git commit时 committer如何默认配置？
+
+`git config --global user.name "KieranTou"`
+`git config --global user.email "qydou7@gmail.com"`
