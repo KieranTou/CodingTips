@@ -13,4 +13,4 @@ fatal: unable to access 'https://github.com/KieranTou/CodeWithCarl.git/': The re
 
 重新设置密码时需要到GitHub申请`Personal access tokens`
 
-
+如何查看项目git设置 `vim .git/config`
