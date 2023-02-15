@@ -14,3 +14,5 @@ fatal: unable to access 'https://github.com/KieranTou/CodeWithCarl.git/': The re
 重新设置密码时需要到GitHub申请`Personal access tokens`
 
 如何查看项目git设置 `vim .git/config`
+
+## 2. git commit时 committer如何默认配置？
